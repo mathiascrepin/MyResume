@@ -973,12 +973,10 @@ section {
     font-size: 2.5rem !important;
     text-align: left;
     padding-top: 3rem;
+    padding-right: 0rem;
   }
-  .right-header .resume {
-    text-align:start;
-    padding-top: 3rem;
-    margin: 0 auto;
-  }
+  .right-header .btn-con {
+    display: inline;
 }
 @media screen and (max-width: 700px) {
   .container {
